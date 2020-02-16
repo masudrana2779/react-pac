@@ -9,7 +9,7 @@ class Home extends Component {
     height: "100vh",
     width: "100%" }}>
                 <center>
-                    <h1>This is Default React Pac</h1>
+                    <h1>This is default react package</h1>
                 </center>
             </div>
         );
