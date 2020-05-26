@@ -8,7 +8,6 @@ I'm trying it to create new React app using webpack.
 
 ```
 npm i
-
 ```
 
 
@@ -16,5 +15,4 @@ npm i
 
 ```
 npm run build
-
 ```
